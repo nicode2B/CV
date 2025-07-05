@@ -19,5 +19,5 @@ Vous pouvez voir un aperçu de mon CV avec la pature d'écran ci dessous.
 
 ## Contact 
 
-* **GitHub :** [Mon profil GitHub](https://github.com/nicode2B)
+* **GitHub :** [nicode2B](https://github.com/nicode2B)
 
